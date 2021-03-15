@@ -22,7 +22,7 @@
 | Maxime              | BALANSARD        | [Maxime-Balansard](https://github.com/Maxime-Balansard)       | https://maxime-balansard.github.io/Platformer/ |
 | Maxime              | FRERE            | [Sparts301](https://github.com/Sparts301)                     | https://sparts301.github.io/Platformer/ |
 | Yvain               | DI COSTANZO      | [Yvain16-69](https://github.com/Yvain16-69)                   | https://yvain16-69.github.io/Platformer-2/ |
-| David               | BORIE            | [DavidBorie](https://github.com/DavidBorie)                   | https://DavidBorie.github.io/Platformer/ |
+| David               | BORIE            | [DavidBorie](https://github.com/DavidBorie)                   | http://localhost/Platformer2_0/ |
 | ...       | ...         |   ... |
 | ...       | ...         |   ... |
 | ...       | ...         |   ... |
